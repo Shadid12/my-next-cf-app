@@ -10,5 +10,9 @@
     "next": "latest",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/next-on-pages": "^0.1.0",
+    "vercel": "^28.4.12"
   }
 }
